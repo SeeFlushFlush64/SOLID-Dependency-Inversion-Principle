@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\dependency-inversion-principle\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.exe
+C:\Users\micha\OneDrive\Desktop\dependency-inversion-principle\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.deps.json
+C:\Users\micha\OneDrive\Desktop\dependency-inversion-principle\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\dependency-inversion-principle\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.dll
+C:\Users\micha\OneDrive\Desktop\dependency-inversion-principle\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.pdb
+C:\Users\micha\OneDrive\Desktop\dependency-inversion-principle\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\dependency-inversion-principle\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\dependency-inversion-principle\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\dependency-inversion-principle\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\dependency-inversion-principle\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.dll
+C:\Users\micha\OneDrive\Desktop\dependency-inversion-principle\DependencyInversionPrinciple\obj\Debug\net8.0\refint\DependencyInversionPrinciple.dll
+C:\Users\micha\OneDrive\Desktop\dependency-inversion-principle\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.pdb
+C:\Users\micha\OneDrive\Desktop\dependency-inversion-principle\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\dependency-inversion-principle\DependencyInversionPrinciple\obj\Debug\net8.0\ref\DependencyInversionPrinciple.dll
